@@ -1,4 +1,4 @@
-Reflection on Assignment 1
+# Reflection on Assignment 1
 
 ![Screenshot (9)](https://github.com/siohyingyi/assignment1-Industry-talk/assets/150785597/1a37d0ce-5429-41fc-9515-9b0908dceb64)
 
